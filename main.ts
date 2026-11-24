@@ -10,7 +10,7 @@
 import { runBot, type OrderInput } from './vendor/makefun-bot.ts';
 
 // ---- tunable gates (swept on the dev grader) ----
-const ENTRY_RES_SOL = 55;
+const ENTRY_RES_SOL = 50;
 const FLOW_MIN_SOL = 0.5;
 const SIZE_SOL = 1.0;
 
